@@ -20,6 +20,8 @@ A curated list of awesome diagramming and graphic software
 * [Coggle](https://coggle.it/) - An online tool for creating and sharing mindmaps and flow charts.
 * [Wireflow](https://wireflow.co/) - Free, online and open sorrce tool for creating beautiful user flow prototypes. [![Open-Source Software][OSS Icon]](https://github.com/vanila-io/wireflow) ![Freeware][Freeware Icon]
 * [ProcessOn](https://www.processon.com/) - A simplest software to create flowcharts, UML, process flows, organizational charts, mindmaps, and more.  ![Freeware][Freeware Icon]
+* [StarUML](http://staruml.io/) - A sophisticated software modeler for agile and concise modeling
+* [OmniGraffle](https://www.omnigroup.com/omnigraffle) - Draw flowcharts, diagrams, prototype, vector graphics, and more.
 
 [OSS Icon]: https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software"
 [Freeware Icon]: https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware"
