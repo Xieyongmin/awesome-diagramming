@@ -19,6 +19,8 @@
 * [Coggle](https://coggle.it/) - 在线创建和共享思维导图和流程图的工具。
 * [Wireflow](https://wireflow.co/) - 免费在线创建用户流程图工具. [![Open-Source Software][OSS Icon]](https://github.com/vanila-io/wireflow) ![Freeware][Freeware Icon]
 * [ProcessOn](https://www.processon.com/) - 支持在线绘制流程图、思维导图、原型图、UML、网络拓扑图、组织结构图等 ![Freeware][Freeware Icon]
+* [StarUML](http://staruml.io/) - 用于敏捷和简洁建模的复杂软件建模器
+* [OmniGraffle](https://www.omnigroup.com/omnigraffle) - 可绘制优美的图表、流程图、组织结构图、思维导图以及插图或原型
 
 [OSS Icon]: https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software"
 [Freeware Icon]: https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware"
