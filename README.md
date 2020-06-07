@@ -12,6 +12,7 @@ A curated list of awesome diagramming and graphic software
 ## Contents
 
 * [Draw.io](https://www.diagrams.net/) - Open source, online, desktop and container deployable diagramming software. [![Open-Source Software][OSS Icon]](https://github.com/jgraph/drawio) ![Freeware][Freeware Icon] 
+  - [Draw Font](https://github.com/webketje/drawio-font-awesome) - A Draw.io (and desktop) library port of the free Font Awesome icons. [![Open-Source Software][OSS Icon]](https://github.com/webketje/drawio-font-awesome) ![Freeware][Freeware Icon] 
 * [Zen Flowchart](https://www.zenflowchart.com/) - A simplest software to create flowcharts, organizational charts, process flows, sitemaps, and more. ![Freeware][Freeware Icon]
 * [Octopus.do](https://octopus.do/) - A lightning-fast visual sitemap builder.
 * [Whimsical](https://whimsical.com/) - Online software to create flowcharts, wireframes, sticky notes, mind maps. 
