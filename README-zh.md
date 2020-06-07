@@ -11,6 +11,7 @@
 ## Contents
 
 * [Draw.io](https://www.diagrams.net/) - 在线绘制流程图等软件，免费开源，有桌面APP. [![Open-Source Software][OSS Icon]](https://github.com/jgraph/drawio) ![Freeware][Freeware Icon] 
+  - [Draw Font](https://github.com/webketje/drawio-font-awesome) - 用于Draw.io的免费字体图标库. [![Open-Source Software][OSS Icon]](https://github.com/webketje/drawio-font-awesome) ![Freeware][Freeware Icon] 
 * [Zen Flowchart](https://www.zenflowchart.com/) - 在线绘制流程图、组织结构图、站点地图等。![Freeware][Freeware Icon]
 * [Octopus.do](https://octopus.do/) - 轻量级且快速的可视化站点地图绘制工具.
 * [Whimsical](https://whimsical.com/) - 可以在线绘制流程图，线框，便签，思维导图。
