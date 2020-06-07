@@ -1,15 +1,13 @@
 # Awesome Diagramming
 A curated list of awesome diagramming and graphic software
 
-[![jaywcjlove/sb](https://jaywcjlove.github.io/sb/ico/awesome.svg)](https://github.com/sindresorhus/awesome) 
-
 ### Explanation
 
 [English](README.md) | [中文](README-zh.md)
 
 ![Open-Source Software][OSS Icon] means **open source**, click to open **open source** repo;\
 ![Freeware][Freeware Icon] means **free** to use, or **free** personal license;\
-![App Store][app-store Icon] means **App store** hyperlink;\
+![App Store][app-store Icon] means **App store** hyperlink;
 
 ## Contents
 
