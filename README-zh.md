@@ -21,6 +21,7 @@
 * [ProcessOn](https://www.processon.com/) - 支持在线绘制流程图、思维导图、原型图、UML、网络拓扑图、组织结构图等 ![Freeware][Freeware Icon]
 * [StarUML](http://staruml.io/) - 用于敏捷和简洁建模的复杂软件建模器
 * [OmniGraffle](https://www.omnigroup.com/omnigraffle) - 可绘制优美的图表、流程图、组织结构图、思维导图以及插图或原型
+* [Sequence Diagram](https://sequencediagram.org/) - 免费序列图在线工具.
 
 [OSS Icon]: https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software"
 [Freeware Icon]: https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware"

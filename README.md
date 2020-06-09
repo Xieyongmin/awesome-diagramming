@@ -22,6 +22,7 @@ A curated list of awesome diagramming and graphic software
 * [ProcessOn](https://www.processon.com/) - A simplest software to create flowcharts, UML, process flows, organizational charts, mindmaps, and more.  ![Freeware][Freeware Icon]
 * [StarUML](http://staruml.io/) - A sophisticated software modeler for agile and concise modeling
 * [OmniGraffle](https://www.omnigroup.com/omnigraffle) - Draw flowcharts, diagrams, prototype, vector graphics, and more.
+* [Sequence Diagram](https://sequencediagram.org/) - Free sequence diagram online tool.
 
 [OSS Icon]: https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software"
 [Freeware Icon]: https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware"
