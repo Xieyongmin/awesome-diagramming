@@ -23,6 +23,7 @@
 * [OmniGraffle](https://www.omnigroup.com/omnigraffle) - 可绘制优美的图表、流程图、组织结构图、思维导图以及插图或原型
 * [Sequence Diagram](https://sequencediagram.org/) - 免费的在线序列图工具
 * [WebSequenceDiagrams](https://www.websequencediagrams.com/) - 在线序列图工具
+* [plantUML](https://plantuml.com/) - 时序图、用例图、活动图等
 
 [OSS Icon]: https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software"
 [Freeware Icon]: https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware"
