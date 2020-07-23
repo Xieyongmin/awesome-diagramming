@@ -24,6 +24,7 @@ A curated list of awesome diagramming and graphic software
 * [OmniGraffle](https://www.omnigroup.com/omnigraffle) - Draw flowcharts, diagrams, prototype, vector graphics, and more.
 * [Sequence Diagram](https://sequencediagram.org/) - Free sequence diagram online tool. ![Freeware][Freeware Icon]
 * [WebSequenceDiagrams](https://www.websequencediagrams.com/) - Sequence diagram online tool.
+* [plantUML](https://plantuml.com/) - Sequence, Usecase, Activity diagram ...
 
 [OSS Icon]: https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software"
 [Freeware Icon]: https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware"
