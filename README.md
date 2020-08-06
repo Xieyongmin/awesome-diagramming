@@ -25,6 +25,8 @@ A curated list of awesome diagramming and graphic software
 * [Sequence Diagram](https://sequencediagram.org/) - Free sequence diagram online tool. ![Freeware][Freeware Icon]
 * [WebSequenceDiagrams](https://www.websequencediagrams.com/) - Sequence diagram online tool.
 * [plantUML](https://plantuml.com/) - Sequence, Usecase, Activity diagram ...
+* [GitMind](https://gitmind.com/) - Online mind mapping and brainstorming tool designed for concept mapping, project planning and other creative tasks![Freeware][Freeware Icon]
+* [GitMind.cn](https://gitmind.cn/) - 免费在线思维导图软件，简化逻辑梳理，集思广益，释放创造力在线脑图、思维导图、流程图、工业设计、工程管理，一图涵千面[Freeware][Freeware Icon]
 
 [OSS Icon]: https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software"
 [Freeware Icon]: https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware"

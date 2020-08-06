@@ -24,6 +24,8 @@
 * [Sequence Diagram](https://sequencediagram.org/) - 免费的在线序列图工具
 * [WebSequenceDiagrams](https://www.websequencediagrams.com/) - 在线序列图工具
 * [plantUML](https://plantuml.com/) - 时序图、用例图、活动图等
+* [GitMind](https://gitmind.cn/) - 免费在线思维导图软件，简化逻辑梳理，集思广益，释放创造力在线脑图、思维导图、流程图、工业设计、工程管理，一图涵千面[Freeware][Freeware Icon]
+* [GitMind.com](https://gitmind.com/) - 免费在线思维导图软件，简化逻辑梳理，集思广益，释放创造力在线脑图、思维导图、流程图、工业设计、工程管理，一图涵千面[Freeware][Freeware Icon]
 
 [OSS Icon]: https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software"
 [Freeware Icon]: https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware"
